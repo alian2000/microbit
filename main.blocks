@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=":0Lva`%R||(!nC^z)R8;" x="20" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="6{:P6n(i9`;J9kA@v0J?"><field name="i">IconNames.SmallSquare</field></block></statement></block><block type="device_button_event" id="1y+]0LHN8lSCnT=?%Sy=" x="283" y="20"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="wuO+eQVs=mb)myMy5yH5"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="P0xRN9tVD*W8e@Fz=MC)" x="563" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="=m%y0+i9FfpFVP#HGXw|"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_gesture_event" id="[yb+Y2+-~Dl8w{-Ix58W" x="20" y="370"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="80PLf^n1dO?*#^,;B{s$"><value name="text"><shadow type="text" id="E(aM=.G{zHI!A@(GV5|r"><field name="TEXT">Usama</field></shadow></value></block></statement></block></xml>

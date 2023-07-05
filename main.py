@@ -17,5 +17,5 @@ def on_button_pressed_b():
 input.on_button_pressed(Button.B, on_button_pressed_b)
 
 def on_gesture_shake():
-    basic.show_string("Usama")
+    basic.show_string("Usama Alian")
 input.on_gesture(Gesture.SHAKE, on_gesture_shake)

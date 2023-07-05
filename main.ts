@@ -14,5 +14,5 @@ input.onButtonPressed(Button.B, function on_button_pressed_b() {
     basic.showIcon(IconNames.Heart)
 })
 input.onGesture(Gesture.Shake, function on_gesture_shake() {
-    basic.showString("Usama")
+    basic.showString("Usama Alian")
 })
