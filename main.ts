@@ -1,5 +1,7 @@
 input.onButtonPressed(Button.A, function on_button_pressed_a() {
-    basic.showIcon(IconNames.SmallSquare)
+    for (let value of ["ali", "bader", "Charlie"]) {
+        basic.showString("Name= " + ("" + ["a", "b", "C"]))
+    }
 })
 input.onButtonPressed(Button.AB, function on_button_pressed_ab() {
     basic.showLeds(`

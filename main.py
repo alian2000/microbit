@@ -1,5 +1,6 @@
 def on_button_pressed_a():
-    basic.show_icon(IconNames.SMALL_SQUARE)
+    for value in ["ali", "bader", "Charlie"]:
+        basic.show_string("Name= " + str((["a", "b", "C"])))
 input.on_button_pressed(Button.A, on_button_pressed_a)
 
 def on_button_pressed_ab():
